@@ -1,4 +1,4 @@
-# Mapa da Violência
+# Mapa 
 
 Este projeto consiste na releitura do *Mapa da Violência*, utilizando a linguagem de programação **Dart** e o framework **Flutter**. Seu objetivo é atender aos requisitos para aprovação nas disciplinas de **Gestão da Informação** e **Desenvolvimento de Dispositivos Móveis**.
 
